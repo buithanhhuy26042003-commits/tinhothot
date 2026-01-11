@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const SHOPEE_LINK = "https://shopee.vn/your-affiliate-link";
+  const SHOPEE_LINK = "https://s.shopee.vn/50SjAWK3m3";
 
   if (!localStorage.getItem("opened_shopee")) {
     const overlay = document.createElement("div");
